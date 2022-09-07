@@ -72,7 +72,11 @@
 
     git branch <branchname>
 
+## Удаление ветки
 
+Для удаления ветки используется команда
+
+    git branch -d <branch_name>
 
 ## Слияние веток
 
