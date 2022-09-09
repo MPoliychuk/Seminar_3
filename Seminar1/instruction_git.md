@@ -88,3 +88,4 @@
 
     git merge <branch_name>
 
+## Удаленные репозитории
